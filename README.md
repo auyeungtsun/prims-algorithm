@@ -1,2 +1,3 @@
-# prims-algorithm
-Prim's algorithm
+# Prim's algorithm
+
+https://en.wikipedia.org/wiki/Prim%27s_algorithm
